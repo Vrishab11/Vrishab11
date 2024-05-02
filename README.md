@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vrishab11
-- 👀 I’m interested in Cyber Security/AI/Automatas
-- 🌱 I’m currently learning Computer Science Engineering
+- 👋 Hi, I’m Vrishab N
+- 👀 I’m interested in Web Development/Cyber Security
+- 🌱 Completed my graduation in Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vrishabnalothayyil@gmail.com
 
