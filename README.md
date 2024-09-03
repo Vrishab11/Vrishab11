@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vrishab N
 - 👀 I’m interested in Web Development/Cyber Security
 - 🌱 Completed my graduation in Computer Science and Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vrishabnalothayyil@gmail.com
 
 <!---
